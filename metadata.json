@@ -1,0 +1,8 @@
+{
+  "name": "SenseBridge",
+  "description": "A multimodal assistive agent for blind and low-vision users using Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
